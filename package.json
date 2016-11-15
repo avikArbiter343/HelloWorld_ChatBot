@@ -1,0 +1,26 @@
+{
+  "name": "hello_world_chatbot",
+  "version": "1.0.0",
+  "description": "Build a bot in Node.js on Microsoft Bot Framework.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avikArbiter343/HelloWorld_ChatBot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Avik Debnath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avikArbiter343/HelloWorld_ChatBot/issues"
+  },
+  "homepage": "https://github.com/avikArbiter343/HelloWorld_ChatBot#readme",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.2.0"
+  }
+}
